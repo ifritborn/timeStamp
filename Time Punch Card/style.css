@@ -1,0 +1,53 @@
+body {
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    background-color: slategrey;
+  }
+  
+  #container {
+    background-color:dimgrey;
+    justify-content: center;
+    align-content: center;
+    border-radius: 15px;
+    border: solid 2px black;
+    width:50%;
+    margin:auto;
+    
+  }
+  h2 {
+    margin: 5px;
+    text-decoration:underline;
+  }
+  h1 {
+    margin: 5px;
+    text-decoration:underline;
+  }
+  #logIn {
+    background-color: lightgrey;
+    border-radius: 50px;
+    margin: 5px;
+    padding: 5px;
+  }
+  
+  #lunchStart {
+    background-color: lightgrey;
+    border-radius: 50px;
+    margin: 5px;
+    padding: 5px;
+  }
+  
+  #lunchEnd {
+    background-color: lightgrey;
+    border-radius: 50px;
+    margin: 5px;
+    padding: 5px;
+  }
+  
+  #logOut {
+    background-color: lightgrey;
+    border-radius: 50px;
+    margin: 5px;
+    padding: 5px;
+  }
